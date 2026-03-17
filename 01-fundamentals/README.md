@@ -25,12 +25,16 @@ A network is a collection of interconnected things that can communicate or share
 
 ### Personal Area Network (PAN)
 
+![PAN](./PAN.png)
+
 - Connects personal devices within a short range.
 - Ranges from few centimeters to few meters.
 - Technology: Bluetooth, Infrared, USB, etc.
 - Ex: Wireless earbuds connected to laptop or phone, phone hotspot, wireless mouse, etc.
 
 ### Local Area Network(LAN)
+
+![LAN](./LAN.png)
 
 - It covers small area like a office, building, or school.
 - It is privately owned network.
@@ -40,6 +44,8 @@ A network is a collection of interconnected things that can communicate or share
 
 ### Campus area Network(CAN)
 
+![CAN](./CAN.png)
+
 - Connects multiple LANs within campus or organization.
 - Ranges between 10km to 50 km
 - Usually managed by ISP's
@@ -47,12 +53,31 @@ A network is a collection of interconnected things that can communicate or share
 
 ### Metropolitan Area Network (MAN)
 
+![MAN](./MAN.png)
+
 - Connects multiple networks within a city or multiple cities.
 - Ranges from 50 km to 500 km.
 - Ex: City-wide network, Cable TV network, etc.
 
 ### Wide Area Network (WAN)
 
+![WAN](./WAN.png)
+
 - Covers large geographical area.
 - Ranges from 500 km to 5000 km.
 - Ex: Internet, VPN, etc.
+
+## Network Topology
+
+- Network topology is the arrangement of nodes and links in a network.
+- It defines how devices are connected to each other and how data flows through the network.
+
+### Types of Network Topology
+
+1. Bus Topology
+2. Ring Topology
+3. Star Topology
+4. Mesh Topology
+5. Hybrid Topology
+
+![Network Topology](./network-topology.png)
